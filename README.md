@@ -20,15 +20,17 @@ In this configuration :
 
 ## Decoding RTTY (45 bauds , 170Hz shift)
 
-Pocket quansheng uv k5 ‘patched’ for SSB reception with the F4HWN firmware
+Pocket quansheng uv k5 ‘patched’ for SSB reception with F4HWN firmware
+
+I would like to thanks F4IRT, F1BJD and F5JGB for the various reports from more than 20km away.
 
 ![board](images/UV-K5.png)
 
-[droidrtty](https://droidrtty.fr.aptoide.com/app)
+Android app [Droidrtty](https://droidrtty.fr.aptoide.com/app) 
 
 ![board](images/DroidRtty.jpg)
 
-And Icom TRX
+And Icom TRX (RTTY mode)
 
 ![board](images/ic705.png)
 
