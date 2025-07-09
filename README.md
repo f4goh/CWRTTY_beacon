@@ -1,4 +1,4 @@
-# CW RTTY Beacon with LoRa ttgo module
+# CW RTTY Beacon with LoRa ttgo TBEAM module
 
 A LoRa module is a small radio chip that can be used to send wireless messages. Normally, it uses a special modulation called LoRa, but thanks to a library like RadioLib, you can make it use other radio modulations, like CW (Morse code) or RTTY (45 bauds, shift 170 Hz).
 ![board](images/splash.jpg)
