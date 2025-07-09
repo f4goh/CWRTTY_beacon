@@ -1,0 +1,16 @@
+{
+  "name": "BEACON-CW-RTTY",
+  "version": "2025.07.0-dev",
+  "home_assistant_domain": "BEACON-CW-RTTY",
+  "new_install_prompt_erase": true,
+  "builds": [
+    {
+      "chipFamily": "ESP32",      
+      "parts": [
+        { "path": "../firmwares/BEACON/bootloader.bin", "offset": 4096 },
+        { "path": "../firmwares/BEACON/partitions.bin", "offset": 32768 },
+        { "path": "../firmwares/BEACON/firmware.bin", "offset": 65536 }		
+      ]
+    }
+  ]
+}
