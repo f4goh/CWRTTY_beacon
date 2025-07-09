@@ -22,13 +22,13 @@ In this configuration :
 
 ![board](images/ic705.png)
 
-## ESP32 pinout
+## ESP32 TTGO TBEAM pinout
 
 ![board](images/TTGO_pinout.png)
 
 ![board](images/TTGO_upper_lower.png)
 
-## Automatic [firmwares](https://f4goh.github.io/CWRTTY_beacon/index.html) installation in the esp32 (no compilation)
+## Automatic [firmware](https://f4goh.github.io/CWRTTY_beacon/index.html) installation in the esp32 (no compilation)
 
 ![board](images/flasher.png)
 
