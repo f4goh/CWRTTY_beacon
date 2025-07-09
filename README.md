@@ -20,7 +20,12 @@ In this configuration :
 
 ## Decoding RTTY (45 bauds , 170Hz shift)
 
+![board](images/UV-K5.png)
+
+![board](images/DroidRtty.jpg)
+
 ![board](images/ic705.png)
+
 
 ## ESP32 TTGO TBEAM pinout
 
